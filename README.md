@@ -1,7 +1,7 @@
 # Tiny Project: Analysis of Student Academic Performance
 
 **Name:** MIN KHANT KO  
-**Enrollment Number:** 2505101020032
+**Enrollment Number:** 2505101020063
 
 ## Files
 - `Student_Academic_Performance_Tiny_Project.Rmd` — R Markdown source file
